@@ -2,11 +2,10 @@
 
 body{
   overflow: hidden;
-  background: linear-gradient(to left, #2869E0, #0588FF);
 }
 
 .bg-SamuelAlmeida{
-  background: linear-gradient(#2869E0, #0588FF);
+  background: linear-gradient(#d3d3d3, #808080);
   height: 100vh;
 }
 
@@ -16,7 +15,4 @@ body{
 
 h1,h2,h3,h4,h5,h6{
   font-family: 'Mate SC', serif;
-}
-.icon{
-  border-radius: 2px;
 }
