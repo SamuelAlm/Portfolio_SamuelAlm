@@ -5,7 +5,7 @@ body{
 }
 
 .bg-SamuelAlmeida{
-  background: linear-gradient(to bottom left, #2869E0, #0588FF);
+  background: linear-gradient(#2869E0, #0588FF);
   height: 100vh;
 }
 
