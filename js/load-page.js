@@ -5,7 +5,7 @@ $(document).ready(function(){
   $('a').click(function(e){
     e.preventDefault()
 
-  // Variavel local que recebe o atributo href do link
+   // Variavel local que recebe o atributo href do link
     let page = $(this).attr('href')
 
     $('.modal-title').empty()
