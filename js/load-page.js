@@ -15,7 +15,7 @@ $(document).ready(function(){
     case 'about': 
       $('.modal-title').append('Sobre mim')
       $('.modal-body').append('lorem')
-      $('.modal-info').modal('show')
+      $('#modal-info').modal('show')
     break
 
     case 'work': alert('trabalhos')
