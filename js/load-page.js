@@ -5,6 +5,10 @@ $(document).ready(function(){
   $('a').click(function(e){
     e.preventDefault()
 
-    $('#modal-info').modal('show')
+  // Variavel local que recebe o atributo href do link
+    let page = $(this).attr('href')
+
+    alert(page)
+    
   })
 })
