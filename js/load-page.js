@@ -5,6 +5,6 @@ $(document).ready(function(){
   $('a').click(function(e){
     e.preventDefault()
 
-    alert('Você clicou em um link!')
+    $('#modal-info').modal('show')
   })
 })

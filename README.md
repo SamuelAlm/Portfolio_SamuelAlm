@@ -10,3 +10,5 @@ Portfólio de Competências e Habilidades do Aluno Samuel de Almeida.
 10-06-2021 - Foi desenvolvido a pagina inicial do projeto, assim como foi configurado as GitPages.
     
 20-06-2021 - Inicio da criação do portfólio.
+
+01-08-2021 - Criação das Janelas Modal e inicio do Jquery.
