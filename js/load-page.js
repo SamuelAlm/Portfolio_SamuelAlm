@@ -15,27 +15,27 @@ $(document).ready(function(){
     switch(page){
     
     //Se for para abrir a pagina sobre mim.
-    case 'about':
-    $('.modal-title').append("Quem sou eu")
-    $('.modal-body').append("Sobre mim")
+    case "about" :
+    $('.modal-title').append('Quem Sou')
+    $('.modal-body').append('Sobre mim')
     $('.modal-info').modal('show')
     break
 
-    case 'work':
-    $('.modal-title').append("Trabalhos")
-    $('.modal-body').append("meus trabalhos")
+    case "work" :
+    $('.modal-title').append('Trabalhos')
+    $('.modal-body').append('meus trabalhos')
     $('.modal-info').modal('show")
     break
 
-    case 'client':
-    $('.modal-title').append("Cooperadores")
-    $('.modal-body').append("amigos e clientes")
+    case "client" :
+    $('.modal-title').append('Cooperadores')
+    $('.modal-body').append('amigos e clientes')
     $('.modal-info').modal('show')
     break
 
-    case 'contact':
-    $('.modal-title').append("Contato")
-    $('.modal-body').append("redes sociais")
+    case "contact" :
+    $('.modal-title').append('Contato')
+    $('.modal-body').append('redes sociais')
     $('.modal-info').modal('show')
     break
     }
