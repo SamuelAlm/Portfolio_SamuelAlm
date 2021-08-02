@@ -38,6 +38,8 @@ $(document).ready(function(){
     $('.modal-body').append('redes sociais')
     $('.modal-info').modal('show')
     break
+
+    default: alert('Link não encontrado')
     }
 
 
