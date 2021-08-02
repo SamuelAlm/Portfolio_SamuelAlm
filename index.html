@@ -27,7 +27,7 @@
     
       <div class="row justify-content-center">
         <div class="col-6 col-sm-4 col-md-2">
-          <a href="#">
+          <a data-toggle="modal" data-target="#modal-info">
             <img class="img-fluid" src="ident.png" alt="sobre">
             <h5 class="text-center text-white">Quem sou eu?</h5>
           </a>
@@ -66,7 +66,13 @@
     </div>
     
   </div>
-  
+
+  <!-- Janela modal -->
+  <div class="modal fade" id="modal-info" role="dialog" aria-labelledby="information" aria-hidden="true">
+      <div class="modal-dialog" role="document">
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita magnam quaerat, facere, laudantium ea officia neque saepe porro magni architecto odit sed. Officiis facere molestiae possimus assumenda voluptatum odit quaerat!</p>
+      </div>
+  </div>
 
   <script src="js/jquery-3.6.0.min.js"></script>
   <script src="js/bootstrap.js"></script>
