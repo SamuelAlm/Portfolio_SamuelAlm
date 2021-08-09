@@ -11,12 +11,10 @@ body{
 .bg-light{
   background: linear-gradient(#dcdcdc, #fff);
   height: 100vh;
-  color: #000;
 }
 .bg-dark{
 background-color: #080808;
   height: 100vh;
-  color: #fff;
 }
 
 .mt-n4 {
