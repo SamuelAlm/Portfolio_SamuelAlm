@@ -7,6 +7,9 @@ $('.btn-light').click(function(t){
   $('.jumbotron').removeClass('bg-dark')
   
   $('.jumbotron').addClass('bg-light')
+  
+  $('a').removeCla'text-white')
+  $('a').addClass('text-dark')
 })
 
 $('.btn-dark').click(function(t){
@@ -16,6 +19,9 @@ $('.btn-dark').click(function(t){
   $('.jumbotron').removeClass('bg-light')
   
   $('.jumbotron').addClass('bg-dark')
+  
+  $('a').removeClass('text-dark')
+  $('a').addClass('text-white')
 })
 
 $('.btn-info').click(function(t){
@@ -25,6 +31,9 @@ $('.btn-info').click(function(t){
   $('.jumbotron').removeClass('bg-dark')
   
   $('.jumbotron').addClass('bg-SamuelAlmeida')
+  
+  $('a').removeClass('text-dark')
+  $('a').addClass('text-white')
 })
 
 })
