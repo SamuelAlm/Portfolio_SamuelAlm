@@ -12,3 +12,5 @@ Portfólio de Competências e Habilidades do Aluno Samuel de Almeida.
 20-06-2021 - Inicio da criação do portfólio.
 
 01-08-2021 - Criação das Janelas Modal e inicio do Jquery.
+
+09-08-2021 - Criação do Botão tema através do Jquery.
