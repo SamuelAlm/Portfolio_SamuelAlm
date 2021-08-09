@@ -1,6 +1,5 @@
 $(document).ready(function(){
 
-
 $('.btn-light').click(function(t){
   t.preventDefault()
   
